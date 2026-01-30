@@ -1,5 +1,8 @@
 // app/dashboard/page.tsx
-// ❗ SERVER COMPONENT — DO NOT add "use client"
+// SERVER COMPONENT — FORCE DYNAMIC RENDERING
+
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
 
 import DashboardClient from "./dashboard-client";
 import { fetchMarkets } from "@/lib/api";
