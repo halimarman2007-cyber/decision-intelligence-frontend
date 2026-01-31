@@ -7,10 +7,10 @@ This project is intentionally non-AI: all insights are deterministic, explainabl
 🔗 Live Demo
 
 Frontend (Vercel)
-👉 https://YOUR_VERCEL_URL.vercel.app
+👉 https://decision-intelligence-frontend-vercel-4p2q7v1j5.vercel.app/
 
 Backend API (Railway)
-👉 https://YOUR_RAILWAY_URL.up.railway.app/markets
+👉 https://web-production-4f69.up.railway.app
 
 🧠 What This Project Does
 
@@ -213,17 +213,6 @@ Connected via environment variables
 
 Fully production-ready
 
-🧩 Possible Extensions
-
-Historical trend charts
-
-PostgreSQL instead of SQLite
-
-Authentication & user watchlists
-
-Notifications (email / Slack)
-
-More granular market configuration
 
 👤 Author
 
